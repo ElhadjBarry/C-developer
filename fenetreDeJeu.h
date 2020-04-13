@@ -16,4 +16,6 @@ class fenetreDeJeu
 		void set(char ch, Color color);
 };
 
+
+
 #endif
